@@ -3,7 +3,7 @@
 **Composer** (2.0+)  
 **Docker** (Unix or Windows)  
 **Docker Compose**
-## Settings .env
+## Settings docker/.env
 You need to change the environment variable for mysql in .env file
 ```sh
 MYSQL_ROOT_PASSWORD=root
