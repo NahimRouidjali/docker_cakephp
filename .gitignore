@@ -1,2 +1,3 @@
 /cakephp/*
+!/cakephp/.gitignore
 /mysql/
