@@ -15,7 +15,7 @@ MYSQL_PASSWORD=myapp
 ## Deployment
 
 ```sh
-git clone https://github.com/NahimRouidjali/docker_cakephp.git; // Clone repo
+git clone https://github.com/NahimRouidjali/docker_cakephp.git // Clone repo
 cd docker_cakephp
 composer create-project --prefer-dist cakephp/app cakephp // Generate cakephp project
 cd docker
